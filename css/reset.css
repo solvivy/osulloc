@@ -1,0 +1,11 @@
+*{margin: 0; padding: 0;}
+ul,li{list-style: none;}
+a{text-decoration: none; color: #404040;}
+img{display: block; border: 0;}
+
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+#txt_box_sec1{
+    font-family: 'Noto Serif KR', serif;
+}
